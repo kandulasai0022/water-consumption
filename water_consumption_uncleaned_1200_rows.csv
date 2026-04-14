@@ -1,0 +1,1201 @@
+State,Year,Urban_Water_Consumption_LPCD,Rural_Water_Consumption_LPCD,Total_Water_Consumption_MLD,Source,Notes
+Sikkim,2020,126,89,6400,Groundwater,check value
+Jharkhand,2018,132,,4327,,duplicate?
+Nagaland,2021,,67,1668,Surface Water,
+Maharashtra,2019,,,427,Groundwater,missing data
+Telangana,2020,,,4170,,
+West Bengal,2021,171,78,5197,Rainwater,
+Gujarat,2020,,79,3138,Rainwater,missing data
+Maharashtra,2021,102,65,2950,Surface Water,check value
+Jharkhand,2020,,,4528,Groundwater,duplicate?
+Goa,2022,,104,5979,,check value
+Telangana,2023,,95,3039,Rainwater,
+Sikkim,2021,,,4785,Spring,missing data
+Jammu & Kashmir,2023,,73,5773,Groundwater,
+Karnataka,2019,,,6385,Groundwater,
+Jharkhand,2021,,111,5477,Surface Water,
+Goa,2020,,56,457,Surface Water,missing data
+Haryana,2023,,,405,,check value
+Jharkhand,2019,,,4833,Rainwater,missing data
+Ladakh,2019,,,1712,Surface Water,
+Andhra Pradesh,2019,,,5028,,missing data
+Ladakh,2020,,,4088,Surface Water,check value
+Uttarakhand,2018,,102,2633,Spring,missing data
+Jammu & Kashmir,2019,,104,3118,Rainwater,check value
+Jharkhand,2019,,,5065,Spring,
+Manipur,2022,136,54,605,Groundwater,
+Meghalaya,2020,184,,6655,,
+Uttar Pradesh,2022,,,5964,Rainwater,check value
+Karnataka,2019,175,,3447,Groundwater,
+Jharkhand,2023,,,1523,,duplicate?
+Jammu & Kashmir,2019,159,,5333,Rainwater,duplicate?
+Tamil Nadu,2021,,94,4231,,check value
+Manipur,2021,182,71,2375,groundwater,
+Chhattisgarh,2020,,,3912,Spring,duplicate?
+Bihar,2022,104,,4154,Groundwater,duplicate?
+Himachal Pradesh,2021,182,57,6609,Groundwater,check value
+Himachal Pradesh,2020,,,266,Spring,missing data
+Delhi,2023,,,4073,,
+Telangana,2018,,,4448,Rainwater,
+Nagaland,2022,,,2121,,missing data
+Rajasthan,2022,,87,3735,Spring,
+Ladakh,2023,,,3177,,
+West Bengal,2018,,,3080,,check value
+Maharashtra,2019,,69,4693,,check value
+Arunachal Pradesh,2023,90,118,1343,Spring,
+Madhya Pradesh,2023,,,1997,,duplicate?
+Ladakh,2021,,105,6797,Groundwater,check value
+Jharkhand,2019,,,5411,,check value
+Haryana,2018,146,,5675,,missing data
+Haryana,2018,,104,1670,Surface Water,check value
+Telangana,2022,,59,545,Surface Water,check value
+Nagaland,2023,,103,5127,Rainwater,check value
+Rajasthan,2018,,51,6483,,
+Uttarakhand,2018,,,771,Groundwater,
+Haryana,2018,129,,238,,duplicate?
+Manipur,2021,,,3935,Surface Water,duplicate?
+Odisha,2021,,,739,Rainwater,duplicate?
+Uttar Pradesh,2018,177,54,4881,Groundwater,missing data
+Bihar,2018,,57,5421,Spring,missing data
+Arunachal Pradesh,2022,,,6680,Groundwater,
+Jammu & Kashmir,2019,,,3881,Spring,
+Maharashtra,2018,,,5226,Groundwater,check value
+Andhra Pradesh,2021,,80,4535,Groundwater,missing data
+Tamil Nadu,2019,189,,1920,groundwater,
+Haryana,2022,,95,1839,Groundwater,check value
+Jharkhand,2022,,,1460,Rainwater,
+Haryana,2018,199,77,5899,Surface Water,
+Goa,2022,,,2820,Rainwater,
+Manipur,2019,101,117,540,groundwater,
+Assam,2019,,,6109,groundwater,duplicate?
+Haryana,2018,129,,1373,Rainwater,
+Nagaland,2020,,,4500,,duplicate?
+Goa,2021,,92,6780,Spring,duplicate?
+Jharkhand,2020,182,,5407,Rainwater,duplicate?
+Madhya Pradesh,2022,,94,3673,Spring,duplicate?
+Tripura,2018,,,616,Spring,missing data
+Tripura,2018,172,,6944,Rainwater,duplicate?
+Uttarakhand,2018,,86,3455,,
+Chhattisgarh,2019,,,1305,groundwater,
+Manipur,2023,,,6115,,check value
+Punjab,2019,,98,650,Rainwater,duplicate?
+Rajasthan,2023,,,878,Surface Water,missing data
+Jammu & Kashmir,2020,156,73,558,groundwater,duplicate?
+Himachal Pradesh,2023,,69,4292,Surface Water,check value
+Ladakh,2022,,96,6671,groundwater,
+Telangana,2019,,,5476,Surface Water,
+Punjab,2018,189,,912,Spring,
+Uttar Pradesh,2023,,,4731,,missing data
+TamilNadu,2022,,,1842,Groundwater,check value
+Haryana,2019,,86,682,Groundwater,missing data
+Assam,2019,,52,4480,Groundwater,duplicate?
+Manipur,2022,,103,2510,Rainwater,check value
+West Bengal,2022,,,6719,,check value
+West Bengal,2021,133,72,1612,groundwater,
+Tamil Nadu,2023,,,5342,Spring,check value
+Kerala,2022,,,2146,groundwater,missing data
+Delhi,2023,,,5783,,missing data
+Sikkim,2018,121,,3194,Groundwater,
+Kerala,2020,,,5086,Rainwater,missing data
+Jammu & Kashmir,2023,,,5606,Surface Water,
+Nagaland,2019,,,1340,Rainwater,
+Uttar Pradesh,2018,,,2525,,
+Uttarakhand,2022,,84,1590,,check value
+Nagaland,2022,144,,3297,,check value
+Punjab,2023,,96,6566,Groundwater,duplicate?
+Telangana,2021,153,,4984,,missing data
+Gujarat,2020,94,,4129,Spring,
+Himachal Pradesh,2022,,118,6744,,missing data
+Bihar,2021,,,2791,Groundwater,missing data
+Telangana,2018,,77,4473,groundwater,duplicate?
+Delhi,2021,,,1883,,
+Bihar,2019,128,116,6867,Surface Water,
+Goa,2019,,66,1833,,missing data
+Delhi,2020,98,,2764,groundwater,
+Sikkim,2018,,,6001,Surface Water,
+Tamil Nadu,2020,,,6315,Rainwater,
+Assam,2019,,,4757,Groundwater,duplicate?
+Maharashtra,2021,,,1622,,duplicate?
+Rajasthan,2021,,,3437,Rainwater,
+Sikkim,2018,,,3255,Spring,missing data
+Andhra Pradesh,2021,,103,2492,Surface Water,check value
+Uttarakhand,2022,,,556,Groundwater,duplicate?
+Manipur,2023,151,119,2609,,
+Meghalaya,2018,,,4323,,
+Madhya Pradesh,2023,,115,656,Rainwater,missing data
+West Bengal,2022,,,1735,Spring,
+Meghalaya,2021,190,68,5020,groundwater,check value
+Jharkhand,2022,183,,6080,groundwater,missing data
+Assam,2019,197,,5538,Surface Water,check value
+Kerala,2023,,,2895,Groundwater,check value
+Haryana,2018,,80,6316,Spring,duplicate?
+Sikkim,2018,,,1914,,duplicate?
+Karnataka,2018,,,1305,Groundwater,
+Odisha,2022,,,1931,Rainwater,
+Jharkhand,2018,,119,3783,Spring,duplicate?
+Ladakh,2021,135,,4573,Rainwater,missing data
+Jammu & Kashmir,2023,,,2701,Groundwater,
+Maharashtra,2023,,95,6281,Rainwater,
+Jharkhand,2021,,,2177,groundwater,check value
+Himachal Pradesh,2019,152,79,4553,Rainwater,missing data
+Punjab,2022,,,6462,,
+Delhi,2020,116,,281,Groundwater,missing data
+Jharkhand,2019,,102,2493,Groundwater,check value
+Jammu & Kashmir,2021,113,,4255,Groundwater,duplicate?
+Bihar,2020,,91,2389,Rainwater,
+Assam,2022,138,97,3032,,duplicate?
+Telangana,2018,,,2726,Spring,
+Andhra Pradesh,2023,161,,3748,,missing data
+Jharkhand,2023,92,70,4635,Groundwater,
+Odisha,2021,,,302,,
+Rajasthan,2023,,,2164,,check value
+Uttarakhand,2020,95,,4563,Spring,check value
+Haryana,2023,,,1171,groundwater,missing data
+Karnataka,2022,195,,6021,Spring,missing data
+Mizoram,2022,,,6169,groundwater,missing data
+Kerala,2023,,57,3250,Groundwater,
+Punjab,2018,,,201,groundwater,
+Gujarat,2022,160,114,4958,,duplicate?
+Telangana,2023,,77,490,Surface Water,check value
+Meghalaya,2023,,88,5859,Surface Water,
+Madhya Pradesh,2022,195,,5848,Surface Water,missing data
+Delhi,2022,119,,1672,Surface Water,missing data
+Maharashtra,2020,,,1384,Spring,check value
+Jharkhand,2022,,,6381,,missing data
+Odisha,2018,,115,4183,Spring,duplicate?
+West Bengal,2019,,,6720,,duplicate?
+Haryana,2023,191,,2811,Rainwater,duplicate?
+Madhya Pradesh,2022,193,103,3572,Spring,
+Jammu&Kashmir,2019,,,2516,Surface Water,duplicate?
+Bihar,2022,,,6552,,
+Meghalaya,2023,,,2253,Groundwater,check value
+Maharashtra,2022,,,933,Groundwater,duplicate?
+Tripura,2019,,,5461,,duplicate?
+Chhattisgarh,2019,,90,551,Rainwater,
+Telangana,2022,,,4969,,missing data
+Odisha,2022,176,120,828,Surface Water,missing data
+Kerala,2018,,81,789,,check value
+Tamil Nadu,2018,,52,2170,,missing data
+TamilNadu,2018,103,,5193,groundwater,missing data
+Tripura,2019,,97,4931,Rainwater,duplicate?
+Telangana,2020,,111,4978,Groundwater,
+Madhya Pradesh,2018,,,6147,Groundwater,
+Madhya Pradesh,2022,,,3766,groundwater,check value
+Uttarakhand,2022,107,,4787,Surface Water,check value
+Haryana,2020,,,2345,Spring,check value
+Arunachal Pradesh,2022,183,,2085,Groundwater,
+Delhi,2022,,112,1733,Groundwater,duplicate?
+Assam,2022,,,4128,,missing data
+Tamil Nadu,2018,,,2517,Rainwater,missing data
+AndhraPradesh,2022,,,4090,Spring,check value
+Telangana,2021,194,,1570,,
+Nagaland,2019,,,6279,Surface Water,duplicate?
+Goa,2022,,,793,,
+Assam,2022,,,440,Surface Water,
+Tamil Nadu,2021,106,,1897,Groundwater,check value
+Telangana,2021,194,,3294,,duplicate?
+Sikkim,2019,,,899,Groundwater,duplicate?
+Karnataka,2019,,97,604,Surface Water,
+Punjab,2022,,,1108,Groundwater,check value
+Mizoram,2023,186,,1752,groundwater,
+Karnataka,2020,174,94,3588,Spring,check value
+Mizoram,2022,186,,775,Spring,check value
+Andhra Pradesh,2018,141,,6704,Groundwater,missing data
+Ladakh,2019,,107,5506,groundwater,missing data
+Kerala,2022,,,6636,,check value
+Tripura,2020,142,,4659,,duplicate?
+Telangana,2021,,,2808,Rainwater,missing data
+Ladakh,2023,,50,203,groundwater,
+Uttar Pradesh,2019,199,,4224,Surface Water,
+Haryana,2022,,,5456,Spring,check value
+Odisha,2020,,,6035,,
+Gujarat,2022,145,,6239,Surface Water,check value
+Gujarat,2020,127,,3750,Surface Water,
+Delhi,2020,,,2062,Groundwater,
+Jharkhand,2023,171,110,339,Surface Water,duplicate?
+Bihar,2021,125,,1945,Rainwater,
+Jharkhand,2023,,,1860,,duplicate?
+Meghalaya,2021,,,6257,Rainwater,check value
+Assam,2020,162,79,3978,Rainwater,check value
+Punjab,2019,,,1075,,missing data
+Kerala,2020,,54,5020,Spring,
+Arunachal Pradesh,2023,,119,1627,Spring,check value
+Jharkhand,2018,,,1087,Rainwater,
+Ladakh,2022,,,5231,Groundwater,
+Karnataka,2019,127,62,1035,,duplicate?
+Kerala,2022,,,2590,Spring,
+Manipur,2023,,88,2608,,
+Uttarakhand,2020,,56,2867,,duplicate?
+Arunachal Pradesh,2022,,,6991,Rainwater,
+Sikkim,2023,116,,5431,Spring,check value
+Andhra Pradesh,2019,,,6377,,missing data
+Jharkhand,2022,,,6979,Spring,check value
+Haryana,2023,,,5610,Groundwater,missing data
+Andhra Pradesh,2021,,,4474,groundwater,duplicate?
+Mizoram,2020,,,1423,Spring,
+Telangana,2020,,97,811,,duplicate?
+Sikkim,2020,,84,1446,,duplicate?
+Arunachal Pradesh,2020,,109,4575,Surface Water,check value
+Kerala,2023,,,2353,,
+Jammu & Kashmir,2023,,,6314,Groundwater,
+Uttarakhand,2018,,,4906,,duplicate?
+Manipur,2022,,,5592,Groundwater,check value
+Assam,2021,,,5642,groundwater,duplicate?
+Gujarat,2023,169,80,2858,groundwater,
+Tripura,2018,186,118,4885,,duplicate?
+Tamil Nadu,2021,,,6419,Groundwater,
+Rajasthan,2019,170,,5355,Groundwater,
+Tripura,2022,,92,4334,Spring,missing data
+Madhya Pradesh,2022,,65,1822,Rainwater,duplicate?
+Manipur,2022,153,,3808,Surface Water,
+Rajasthan,2023,165,91,322,Rainwater,
+Haryana,2019,101,,4675,groundwater,check value
+Bihar,2020,105,,1313,,duplicate?
+Sikkim,2020,186,,306,Rainwater,check value
+Goa,2020,,,322,Groundwater,check value
+Mizoram,2022,147,,6823,,
+Himachal Pradesh,2022,135,,1322,Spring,missing data
+Assam,2020,,96,4712,Surface Water,missing data
+Odisha,2020,,,3025,,
+Bihar,2020,184,,4232,groundwater,duplicate?
+Tamil Nadu,2022,120,,3570,Groundwater,
+Haryana,2020,,55,4078,Rainwater,check value
+Mizoram,2021,,,1000,,check value
+Delhi,2019,145,,4693,groundwater,
+Meghalaya,2023,174,,1373,Rainwater,check value
+Maharashtra,2021,,91,3887,Surface Water,check value
+Ladakh,2018,,,3549,,
+Tripura,2022,,,2045,groundwater,missing data
+Mizoram,2020,,,1384,Groundwater,missing data
+Gujarat,2022,122,,2702,groundwater,
+Odisha,2019,93,50,5053,,duplicate?
+Uttar Pradesh,2019,,108,6943,Surface Water,duplicate?
+Tamil Nadu,2019,,,5182,groundwater,check value
+Jammu & Kashmir,2018,191,,5273,Surface Water,
+Maharashtra,2023,,,6741,,
+Ladakh,2023,,,4455,,check value
+Sikkim,2019,,,1888,groundwater,missing data
+Ladakh,2021,,,5501,Groundwater,missing data
+Jammu & Kashmir,2020,,110,6191,Surface Water,
+Tripura,2021,,,4513,Surface Water,
+Meghalaya,2018,,77,2179,,
+Himachal Pradesh,2018,104,,1953,Spring,duplicate?
+Delhi,2023,,,4905,Groundwater,duplicate?
+West Bengal,2021,,,2845,Groundwater,missing data
+Jammu & Kashmir,2021,,,3821,,
+Karnataka,2023,,68,3769,Spring,missing data
+Assam,2021,,104,1821,Surface Water,duplicate?
+Tripura,2023,,55,2368,Groundwater,
+Madhya Pradesh,2023,188,,4123,Surface Water,check value
+Rajasthan,2021,,110,485,,missing data
+HimachalPradesh,2023,189,86,4399,Surface Water,check value
+Manipur,2022,,91,471,Rainwater,
+Meghalaya,2022,,67,1889,groundwater,check value
+Andhra Pradesh,2020,,,6537,,duplicate?
+Punjab,2022,,,3267,Surface Water,missing data
+Tamil Nadu,2018,146,118,3782,groundwater,
+Mizoram,2023,,,1256,Groundwater,duplicate?
+Ladakh,2018,,,5257,,duplicate?
+Manipur,2020,120,,6267,,
+Odisha,2021,,,648,Groundwater,missing data
+Madhya Pradesh,2021,120,,6520,Spring,missing data
+Mizoram,2021,,,6138,Spring,
+West Bengal,2020,144,,6118,Groundwater,
+Sikkim,2019,195,114,3185,Spring,duplicate?
+Uttar Pradesh,2018,101,56,1796,,
+Tripura,2021,,,5375,Surface Water,check value
+Andhra Pradesh,2018,119,,2754,Spring,check value
+Jammu & Kashmir,2020,,66,4927,,missing data
+Tamil Nadu,2018,,,3706,Spring,check value
+Assam,2021,,,5425,,missing data
+Ladakh,2023,,,4705,groundwater,missing data
+Jammu & Kashmir,2018,143,117,5014,,missing data
+Tripura,2019,,,6160,groundwater,
+Madhya Pradesh,2019,,,442,Spring,
+Punjab,2023,,,1942,Groundwater,missing data
+Tripura,2023,,,5814,Surface Water,duplicate?
+Delhi,2022,156,,5377,,
+Uttar Pradesh,2018,,,6741,,
+Kerala,2018,,,6092,,check value
+Andhra Pradesh,2023,,,5693,Spring,check value
+Tripura,2018,,,5709,Spring,
+Telangana,2019,175,117,4404,Rainwater,duplicate?
+Chhattisgarh,2021,119,,2221,,check value
+Karnataka,2022,144,75,5044,Rainwater,missing data
+Meghalaya,2023,138,,4059,Rainwater,
+Bihar,2019,113,,3532,Surface Water,duplicate?
+West Bengal,2021,189,66,209,Spring,missing data
+Jammu & Kashmir,2019,190,88,1792,Rainwater,duplicate?
+Haryana,2019,,,2123,Groundwater,missing data
+Tamil Nadu,2020,,71,3606,Rainwater,missing data
+West Bengal,2019,189,,2847,Surface Water,missing data
+Nagaland,2022,,,3817,,check value
+West Bengal,2018,,,5725,Spring,
+Tripura,2018,,68,6848,groundwater,check value
+Goa,2018,,115,6198,,missing data
+Karnataka,2019,,,1734,,
+Madhya Pradesh,2023,,85,6636,groundwater,duplicate?
+Haryana,2022,,,1650,,missing data
+Haryana,2019,156,105,2793,Rainwater,
+Haryana,2020,,58,2885,Surface Water,
+Rajasthan,2018,,,4848,Spring,
+West Bengal,2021,,,1244,Groundwater,missing data
+Karnataka,2023,,99,1880,,
+Assam,2020,,,562,groundwater,
+Bihar,2018,174,,1701,groundwater,missing data
+Bihar,2022,172,,6330,Surface Water,check value
+Rajasthan,2018,,,1475,Groundwater,duplicate?
+Telangana,2020,,,3767,,
+Tamil Nadu,2018,,50,1462,Surface Water,duplicate?
+TamilNadu,2022,,59,2287,Rainwater,missing data
+Rajasthan,2021,181,91,6094,Spring,check value
+Uttar Pradesh,2021,,63,1398,Surface Water,duplicate?
+Karnataka,2018,153,,1195,Groundwater,missing data
+Arunachal Pradesh,2018,,,5639,,duplicate?
+Delhi,2018,,,3153,Groundwater,
+Delhi,2023,,90,4159,groundwater,
+Arunachal Pradesh,2023,,,5671,Groundwater,duplicate?
+Telangana,2019,164,,6539,groundwater,missing data
+Tripura,2019,99,,2660,Groundwater,duplicate?
+Himachal Pradesh,2019,147,71,6945,groundwater,
+Nagaland,2020,,71,1714,,
+Rajasthan,2018,127,87,5399,Groundwater,duplicate?
+Nagaland,2022,,56,5865,groundwater,missing data
+Sikkim,2022,183,,1425,,duplicate?
+Punjab,2022,133,,478,groundwater,
+Rajasthan,2019,,,5524,Groundwater,duplicate?
+Tripura,2020,,,1443,,
+Bihar,2019,178,,4335,Spring,
+Odisha,2021,121,,2436,groundwater,duplicate?
+Madhya Pradesh,2022,,,3248,Rainwater,check value
+Kerala,2023,,,752,,missing data
+Nagaland,2020,,,4847,,missing data
+Arunachal Pradesh,2021,156,70,5625,Surface Water,
+Sikkim,2019,,,6970,groundwater,duplicate?
+Rajasthan,2023,,104,2045,Spring,duplicate?
+Assam,2018,,90,5877,,
+Tripura,2019,,120,4831,groundwater,missing data
+Uttar Pradesh,2021,,,4439,Groundwater,duplicate?
+Nagaland,2023,99,,2214,Groundwater,missing data
+Odisha,2023,120,88,5207,,check value
+Sikkim,2020,,,6196,Groundwater,check value
+Chhattisgarh,2022,141,62,5184,groundwater,missing data
+Goa,2020,,,4311,,check value
+Arunachal Pradesh,2020,,67,4730,Surface Water,duplicate?
+Punjab,2020,176,,4941,groundwater,check value
+Jammu & Kashmir,2020,129,,5916,Surface Water,check value
+Ladakh,2020,168,50,5924,Groundwater,missing data
+Mizoram,2018,,,1400,Surface Water,duplicate?
+Maharashtra,2020,,,4157,groundwater,duplicate?
+Gujarat,2022,,,6726,Spring,check value
+Maharashtra,2023,,,4639,,
+Jharkhand,2018,200,,6982,,check value
+Jammu & Kashmir,2021,,,394,groundwater,duplicate?
+Manipur,2022,149,,1433,Surface Water,duplicate?
+Delhi,2018,,,4016,Groundwater,
+Delhi,2018,102,85,2567,,
+Madhya Pradesh,2021,,,3963,Surface Water,
+Haryana,2018,179,118,3581,Rainwater,duplicate?
+Punjab,2018,,,2394,,
+Assam,2021,,71,6590,Surface Water,missing data
+Andhra Pradesh,2018,,,4620,Rainwater,duplicate?
+Manipur,2020,,,2373,Surface Water,check value
+Bihar,2023,184,,3038,,missing data
+Maharashtra,2021,,,6685,,
+Rajasthan,2021,,87,584,Surface Water,duplicate?
+Odisha,2021,,65,5807,Rainwater,
+Nagaland,2020,93,,2761,groundwater,
+Bihar,2023,,,2062,Spring,
+Manipur,2020,,,1917,Rainwater,duplicate?
+Gujarat,2021,,110,271,Surface Water,
+Himachal Pradesh,2021,98,,5768,Surface Water,duplicate?
+Gujarat,2019,128,71,3082,Rainwater,
+Sikkim,2021,156,85,5475,,duplicate?
+Uttar Pradesh,2020,,81,4341,,missing data
+Rajasthan,2019,94,,4776,Groundwater,duplicate?
+Jharkhand,2022,111,,5316,Groundwater,duplicate?
+Madhya Pradesh,2023,120,,4431,Rainwater,missing data
+Delhi,2018,,,5500,Rainwater,
+Bihar,2020,,,3776,Groundwater,missing data
+Arunachal Pradesh,2022,,,5411,groundwater,duplicate?
+Tripura,2019,,,4815,,check value
+Ladakh,2019,,,224,,
+Jammu & Kashmir,2020,151,55,6871,groundwater,check value
+Himachal Pradesh,2018,142,,4517,Rainwater,duplicate?
+Odisha,2020,,,4695,,
+Ladakh,2020,93,,2549,Spring,missing data
+Odisha,2020,171,,5658,,
+West Bengal,2023,156,,4938,Rainwater,duplicate?
+Madhya Pradesh,2023,153,,2330,Groundwater,duplicate?
+Maharashtra,2020,187,,4001,groundwater,missing data
+Rajasthan,2018,119,,801,Groundwater,check value
+Manipur,2022,176,,5429,,check value
+Madhya Pradesh,2018,,,466,Spring,check value
+Nagaland,2022,165,99,5967,Surface Water,missing data
+Arunachal Pradesh,2023,,,6849,,
+Punjab,2022,129,,1160,,
+Tamil Nadu,2023,,,983,,duplicate?
+Delhi,2022,95,,923,groundwater,
+Jammu & Kashmir,2021,,87,5069,Surface Water,
+Himachal Pradesh,2021,142,,855,Groundwater,duplicate?
+Ladakh,2023,,105,2572,Groundwater,duplicate?
+Manipur,2023,,110,3445,Surface Water,
+Assam,2020,,,4002,,check value
+Jharkhand,2021,,,6637,,check value
+Himachal Pradesh,2023,102,,2865,Rainwater,duplicate?
+Odisha,2019,,,663,groundwater,missing data
+Chhattisgarh,2019,,,2318,Groundwater,
+Punjab,2022,,,6749,Groundwater,duplicate?
+Manipur,2018,,,5232,Spring,check value
+Madhya Pradesh,2019,137,,420,Groundwater,
+Karnataka,2022,187,,4339,groundwater,
+Maharashtra,2019,,,1912,Rainwater,duplicate?
+Odisha,2019,,70,4597,Rainwater,
+Manipur,2019,105,91,5897,groundwater,missing data
+Uttar Pradesh,2022,,,2677,Surface Water,
+Jammu & Kashmir,2019,,,3296,groundwater,
+Bihar,2021,,93,6859,Rainwater,missing data
+Jharkhand,2020,,55,6590,,duplicate?
+Assam,2022,,,5273,groundwater,missing data
+Tripura,2020,,,5797,,duplicate?
+Tamil Nadu,2020,,87,3988,Surface Water,duplicate?
+Odisha,2023,,,5143,Groundwater,check value
+Tripura,2018,,,797,Rainwater,check value
+Himachal Pradesh,2019,,,3963,Rainwater,check value
+Haryana,2019,,,6540,Groundwater,duplicate?
+Assam,2023,,,5059,groundwater,
+Sikkim,2018,188,,958,groundwater,
+Gujarat,2021,135,76,1742,,missing data
+Tamil Nadu,2023,94,83,1159,Groundwater,
+Nagaland,2022,,113,2185,,missing data
+Haryana,2018,,,3036,Surface Water,missing data
+Maharashtra,2022,,65,798,Surface Water,check value
+Ladakh,2023,,,4740,Spring,missing data
+Maharashtra,2023,194,,2091,Groundwater,duplicate?
+Mizoram,2020,,,2478,groundwater,
+Odisha,2022,,,1381,Rainwater,
+Uttarakhand,2018,147,,1194,Groundwater,missing data
+Goa,2020,113,,6590,Spring,check value
+Manipur,2022,,,3350,groundwater,duplicate?
+Kerala,2018,95,,4853,Surface Water,missing data
+HimachalPradesh,2020,135,,632,Surface Water,missing data
+Goa,2021,,,3201,,
+Punjab,2020,,,3904,Surface Water,
+Kerala,2021,,56,6422,,check value
+Haryana,2022,186,113,5715,Rainwater,missing data
+Goa,2022,94,,802,Groundwater,missing data
+Gujarat,2022,,82,718,Groundwater,duplicate?
+Meghalaya,2020,,,1478,,check value
+Jharkhand,2018,,,4568,,check value
+Bihar,2019,,112,1188,Rainwater,missing data
+Jharkhand,2019,,87,1124,,missing data
+Meghalaya,2023,137,,3812,Rainwater,check value
+Tripura,2019,,,998,Rainwater,duplicate?
+Arunachal Pradesh,2021,166,51,5233,Spring,duplicate?
+Meghalaya,2019,188,,3708,,
+Assam,2021,96,,3809,Rainwater,missing data
+Madhya Pradesh,2021,,102,830,Groundwater,
+Telangana,2019,,101,685,,duplicate?
+Uttarakhand,2018,,,808,Spring,missing data
+Mizoram,2021,,,5372,groundwater,
+Haryana,2021,,90,370,,missing data
+Tamil Nadu,2021,,,4511,Surface Water,duplicate?
+Rajasthan,2021,171,,1100,,
+Goa,2018,,,6574,,
+Nagaland,2020,,,1240,,
+Arunachal Pradesh,2020,184,,2706,groundwater,check value
+Uttarakhand,2021,189,,971,groundwater,
+Sikkim,2022,,104,6143,,
+Assam,2019,185,,3295,groundwater,
+Gujarat,2021,,,2716,Surface Water,
+Punjab,2020,,,2337,groundwater,
+Telangana,2020,196,97,2617,Surface Water,
+Tripura,2018,,,1668,,
+Mizoram,2019,,117,2539,groundwater,duplicate?
+MadhyaPradesh,2019,,,6193,,missing data
+Chhattisgarh,2019,,,2415,groundwater,check value
+Telangana,2021,198,,4691,Surface Water,
+Kerala,2023,132,,6069,Surface Water,
+Gujarat,2023,136,,431,,
+Uttar Pradesh,2020,,85,4464,Rainwater,missing data
+Assam,2020,,,3266,,missing data
+West Bengal,2019,,76,2776,Groundwater,
+Odisha,2020,,,1844,Surface Water,missing data
+Karnataka,2023,111,,5187,Rainwater,missing data
+Telangana,2021,,79,2538,groundwater,duplicate?
+Chhattisgarh,2020,,,2091,Groundwater,
+Maharashtra,2019,,57,5231,Spring,
+Jammu & Kashmir,2020,121,,895,groundwater,
+West Bengal,2022,136,,5789,Spring,duplicate?
+Telangana,2022,,59,5780,Spring,check value
+Himachal Pradesh,2019,,,2551,groundwater,
+Mizoram,2020,,,1212,Groundwater,duplicate?
+Kerala,2021,,113,3162,Spring,
+Jharkhand,2019,107,91,3785,Rainwater,check value
+Assam,2019,,68,6326,Surface Water,
+Kerala,2021,179,,4769,,duplicate?
+Himachal Pradesh,2020,,70,3716,groundwater,missing data
+Ladakh,2019,186,59,2449,,
+Kerala,2023,,,3462,Rainwater,
+Jammu & Kashmir,2023,,63,5168,,
+Kerala,2021,,,2332,,check value
+Kerala,2021,105,65,5828,,
+Madhya Pradesh,2023,,,2836,Surface Water,duplicate?
+Tripura,2020,,110,3026,Groundwater,duplicate?
+Maharashtra,2018,,66,3833,,
+Himachal Pradesh,2020,,75,4145,Groundwater,check value
+Odisha,2020,112,,2626,Groundwater,
+Uttarakhand,2021,117,94,2147,,duplicate?
+Jammu & Kashmir,2021,156,87,5856,groundwater,check value
+Karnataka,2022,,,6647,Surface Water,
+Himachal Pradesh,2022,121,,1623,Groundwater,missing data
+HimachalPradesh,2019,,76,2621,Groundwater,check value
+Ladakh,2018,,67,1104,Spring,
+Ladakh,2020,,,660,Surface Water,missing data
+West Bengal,2018,,,2176,Spring,missing data
+Chhattisgarh,2022,,,3689,,duplicate?
+Delhi,2019,100,89,3809,,
+Uttarakhand,2022,,57,2829,,
+Himachal Pradesh,2020,,,4562,Surface Water,check value
+Manipur,2021,,64,4752,Spring,
+Andhra Pradesh,2018,,,6847,groundwater,duplicate?
+Uttarakhand,2022,,,625,Rainwater,
+Gujarat,2023,,,5233,Rainwater,check value
+Telangana,2023,145,91,5761,,duplicate?
+Assam,2019,,,5716,Rainwater,check value
+West Bengal,2022,,107,1749,Rainwater,
+Meghalaya,2021,166,110,6546,Groundwater,duplicate?
+Jharkhand,2023,,,6216,,check value
+Nagaland,2019,,61,4196,Groundwater,duplicate?
+Nagaland,2020,,103,6424,Surface Water,duplicate?
+Rajasthan,2022,155,,4583,,missing data
+Telangana,2019,157,115,3017,Spring,
+Jharkhand,2021,,,971,Spring,check value
+Jharkhand,2018,184,,1638,Spring,duplicate?
+Arunachal Pradesh,2020,148,,1464,,
+Uttarakhand,2021,,,2508,,check value
+Nagaland,2022,,,2477,,check value
+Meghalaya,2019,97,,1385,Groundwater,
+Tripura,2023,,,6233,,
+Ladakh,2022,,80,4260,Rainwater,missing data
+Jharkhand,2023,,,6570,,missing data
+Jharkhand,2018,121,,6626,Spring,duplicate?
+Assam,2018,,,1502,groundwater,duplicate?
+Delhi,2022,,99,5941,Surface Water,missing data
+Himachal Pradesh,2022,,116,997,Rainwater,check value
+Gujarat,2022,,,1633,groundwater,missing data
+Meghalaya,2022,118,,4914,Surface Water,check value
+Assam,2023,,59,1436,Rainwater,
+Delhi,2020,,60,2874,,missing data
+ArunachalPradesh,2023,,,2086,groundwater,check value
+Rajasthan,2018,,,2734,Surface Water,missing data
+Telangana,2020,,,5749,,duplicate?
+Meghalaya,2023,,,1219,Rainwater,
+Delhi,2021,,72,766,,check value
+West Bengal,2023,,,4734,Groundwater,
+Odisha,2022,168,,6690,Surface Water,
+Delhi,2018,,,6465,Rainwater,missing data
+Jharkhand,2018,,53,2240,Groundwater,check value
+Odisha,2018,,60,1094,Spring,
+Tripura,2018,,,2467,Groundwater,check value
+Rajasthan,2021,,,5011,Rainwater,
+Himachal Pradesh,2023,,,1019,groundwater,
+Tripura,2019,,,4239,,
+Andhra Pradesh,2019,,,6346,,
+Haryana,2020,,120,1506,groundwater,
+Ladakh,2023,,,6526,Groundwater,
+Gujarat,2018,,,4165,groundwater,
+Chhattisgarh,2022,147,,6396,,missing data
+Maharashtra,2023,,,4268,Groundwater,
+Tamil Nadu,2023,,69,1747,Spring,check value
+Telangana,2020,,,1921,,check value
+Himachal Pradesh,2022,112,88,3694,Surface Water,
+Mizoram,2019,,,6090,Rainwater,check value
+Himachal Pradesh,2023,,,718,,missing data
+Jharkhand,2022,186,88,846,,duplicate?
+Bihar,2023,183,,4830,Surface Water,missing data
+Bihar,2022,,58,3446,Groundwater,check value
+Chhattisgarh,2018,,,6299,groundwater,
+Arunachal Pradesh,2020,,,2354,,missing data
+Manipur,2019,,107,5673,groundwater,duplicate?
+Odisha,2018,,112,4872,Surface Water,duplicate?
+West Bengal,2023,,,3945,Spring,
+Mizoram,2020,141,95,3296,Spring,check value
+Gujarat,2020,,64,2109,groundwater,duplicate?
+Sikkim,2018,,,416,,
+Kerala,2018,96,,3525,Spring,duplicate?
+Punjab,2023,174,,681,,check value
+Bihar,2023,,,6385,Surface Water,missing data
+Mizoram,2019,,,6487,Spring,duplicate?
+Karnataka,2021,,64,987,,missing data
+Bihar,2023,93,82,3411,Rainwater,missing data
+Punjab,2020,147,95,4901,Groundwater,
+Gujarat,2021,,,3243,,
+Karnataka,2023,,81,6634,Spring,missing data
+Maharashtra,2019,,85,3902,Groundwater,duplicate?
+Ladakh,2019,,,809,Groundwater,
+Sikkim,2021,,,4044,Spring,duplicate?
+Rajasthan,2021,,104,1179,,duplicate?
+Tripura,2020,,,2174,Groundwater,missing data
+Sikkim,2022,,,4466,,missing data
+Andhra Pradesh,2020,101,,495,Surface Water,
+Maharashtra,2023,,96,768,groundwater,duplicate?
+Punjab,2023,,82,3071,,check value
+Andhra Pradesh,2021,,,4874,Surface Water,duplicate?
+Madhya Pradesh,2022,,103,6822,,missing data
+Kerala,2023,,,6244,Rainwater,duplicate?
+Sikkim,2019,159,,1898,Spring,missing data
+Jharkhand,2020,124,,666,Groundwater,
+Ladakh,2019,,,5293,Spring,
+Manipur,2022,,,1111,groundwater,check value
+Goa,2019,,,4575,Rainwater,
+Punjab,2021,,86,2452,Groundwater,
+Tripura,2022,195,,484,Spring,missing data
+Delhi,2020,,,4137,groundwater,missing data
+Bihar,2019,133,73,1621,groundwater,
+Bihar,2023,,,3990,Spring,
+Tripura,2022,,,1968,Rainwater,
+West Bengal,2019,,,2305,,check value
+Delhi,2023,,,1109,Surface Water,check value
+Uttarakhand,2020,176,,335,Spring,check value
+Madhya Pradesh,2021,114,,3351,groundwater,duplicate?
+Mizoram,2018,,,1489,Groundwater,duplicate?
+Himachal Pradesh,2021,,84,255,,check value
+Sikkim,2019,,51,4401,,check value
+Arunachal Pradesh,2018,,81,4212,Surface Water,missing data
+Haryana,2020,,103,5787,Groundwater,missing data
+Andhra Pradesh,2022,,58,4615,groundwater,
+Assam,2020,145,,4640,Spring,check value
+Rajasthan,2018,,,5537,groundwater,duplicate?
+Rajasthan,2022,,,1205,,
+Assam,2023,189,,4104,Spring,duplicate?
+Bihar,2018,,,3839,groundwater,
+Manipur,2022,,,1181,Groundwater,
+Assam,2019,137,,3435,groundwater,
+Uttarakhand,2020,139,,272,,
+Madhya Pradesh,2018,,,2181,,
+Ladakh,2023,,,1848,groundwater,duplicate?
+Jammu & Kashmir,2022,,,6134,,check value
+Punjab,2023,,,534,Rainwater,
+Assam,2020,,,5196,Rainwater,missing data
+Haryana,2019,,,2255,groundwater,missing data
+Nagaland,2022,,,6642,groundwater,
+Kerala,2021,,111,860,Surface Water,missing data
+Jammu & Kashmir,2019,,,2394,,missing data
+Gujarat,2018,,,1070,groundwater,duplicate?
+Mizoram,2022,,,2385,,check value
+Karnataka,2020,,109,4558,groundwater,
+Tripura,2022,131,,2567,Rainwater,duplicate?
+Uttarakhand,2022,,,6772,Spring,duplicate?
+Kerala,2019,117,79,6629,Rainwater,missing data
+Uttarakhand,2022,,,4316,Rainwater,
+Jammu & Kashmir,2018,,,3727,,
+Bihar,2023,145,,2986,Spring,duplicate?
+Uttarakhand,2019,,,5343,Spring,
+Nagaland,2020,,,3068,groundwater,check value
+Tripura,2021,112,106,6141,,check value
+Arunachal Pradesh,2019,,83,4180,Surface Water,check value
+Jharkhand,2023,138,,885,Groundwater,check value
+Mizoram,2022,,,2575,Rainwater,duplicate?
+Madhya Pradesh,2018,,,4591,Groundwater,missing data
+Tamil Nadu,2022,155,,2634,Surface Water,
+Himachal Pradesh,2022,109,,6009,Groundwater,
+Uttarakhand,2021,118,,5448,Spring,
+Mizoram,2021,167,100,2534,Groundwater,duplicate?
+Punjab,2019,,116,4689,,check value
+Assam,2020,,,4035,,missing data
+Nagaland,2022,,,4110,Rainwater,check value
+MadhyaPradesh,2018,,64,2193,,
+Sikkim,2019,,,551,,
+Rajasthan,2023,,,2140,,missing data
+Kerala,2018,139,,6526,Spring,duplicate?
+Rajasthan,2019,155,108,5726,Groundwater,
+Uttarakhand,2019,126,,5713,,duplicate?
+Goa,2021,,,2806,Spring,check value
+Sikkim,2021,,95,5077,Rainwater,duplicate?
+Arunachal Pradesh,2019,,,4919,,
+Andhra Pradesh,2022,129,,3428,Groundwater,missing data
+Ladakh,2022,,,4919,Spring,
+Sikkim,2023,,,1267,Spring,check value
+Tamil Nadu,2022,116,,4746,,
+Telangana,2018,,,6295,Surface Water,check value
+Haryana,2022,,,1941,Surface Water,
+Telangana,2020,161,100,1543,groundwater,
+Chhattisgarh,2022,94,,4570,groundwater,check value
+Assam,2020,,,6320,Rainwater,check value
+Delhi,2019,,,343,groundwater,
+Himachal Pradesh,2021,,,2155,,check value
+Ladakh,2023,,,3039,Spring,
+Goa,2020,,50,2736,Rainwater,check value
+Himachal Pradesh,2018,133,,6126,,
+Maharashtra,2018,,,3802,Groundwater,check value
+Sikkim,2022,,50,6548,,
+Assam,2023,,,4990,Rainwater,check value
+Jammu & Kashmir,2023,143,,496,groundwater,check value
+Mizoram,2022,,,5899,,missing data
+Chhattisgarh,2020,,,2240,Spring,duplicate?
+Tripura,2021,,108,692,groundwater,missing data
+Uttarakhand,2019,,,4832,Spring,
+Delhi,2019,,,3161,Spring,
+Tamil Nadu,2023,117,,3057,groundwater,check value
+Manipur,2021,,,2638,Rainwater,check value
+Arunachal Pradesh,2023,192,82,4768,,
+Mizoram,2020,109,64,4454,groundwater,check value
+Chhattisgarh,2021,,,5506,groundwater,check value
+Himachal Pradesh,2019,146,,805,,duplicate?
+Gujarat,2018,117,,4163,groundwater,duplicate?
+Karnataka,2023,195,99,5894,Groundwater,duplicate?
+Odisha,2018,,,4419,Groundwater,duplicate?
+Mizoram,2019,,,4271,Spring,missing data
+Nagaland,2018,,98,2214,Spring,
+Ladakh,2021,159,,493,groundwater,
+Manipur,2022,,,1406,,missing data
+Rajasthan,2022,,110,2195,Surface Water,
+Manipur,2019,,,6637,groundwater,
+West Bengal,2018,,70,5488,groundwater,
+Gujarat,2018,,,5389,Groundwater,
+Uttarakhand,2021,106,,2480,Groundwater,missing data
+Telangana,2019,145,,4884,,
+Meghalaya,2018,,,1343,Groundwater,duplicate?
+Arunachal Pradesh,2023,178,,967,groundwater,duplicate?
+Mizoram,2023,119,,5119,groundwater,missing data
+Mizoram,2022,,,5043,,
+Chhattisgarh,2022,150,70,499,,
+Uttarakhand,2023,,,3231,Rainwater,duplicate?
+Himachal Pradesh,2019,,,6266,Spring,
+Uttar Pradesh,2022,164,57,3219,,
+Jharkhand,2021,,,5133,,
+Haryana,2021,197,,6958,Groundwater,check value
+Sikkim,2018,,89,2963,Groundwater,
+Uttar Pradesh,2019,,,4009,Surface Water,duplicate?
+Andhra Pradesh,2021,,,246,,duplicate?
+Sikkim,2020,,107,1672,,duplicate?
+Tripura,2021,,120,3402,,missing data
+Haryana,2023,151,,3032,groundwater,
+Andhra Pradesh,2021,,,1403,,missing data
+Tripura,2019,,,567,Spring,check value
+Andhra Pradesh,2022,,,5043,,duplicate?
+Jammu & Kashmir,2022,142,,5257,,
+Tripura,2023,,,4400,Rainwater,
+Karnataka,2020,180,,3075,Surface Water,missing data
+Kerala,2021,,,5895,,duplicate?
+Bihar,2022,,,4732,,
+Chhattisgarh,2019,,,2096,,check value
+Haryana,2021,,,1457,Rainwater,
+Haryana,2018,121,115,6120,Spring,check value
+Madhya Pradesh,2021,165,,4595,Spring,duplicate?
+Himachal Pradesh,2020,,,3789,,missing data
+Madhya Pradesh,2018,200,88,396,,
+Tripura,2019,,,6059,Groundwater,missing data
+Sikkim,2019,,,6789,Surface Water,duplicate?
+Manipur,2022,181,57,3648,groundwater,duplicate?
+Uttar Pradesh,2020,,,733,Spring,
+Telangana,2018,,,2853,,duplicate?
+Mizoram,2019,199,95,5330,,
+Delhi,2018,,,396,Groundwater,
+Karnataka,2018,116,86,6739,,duplicate?
+Madhya Pradesh,2018,,,6885,Spring,missing data
+Uttar Pradesh,2019,186,,5735,,duplicate?
+Sikkim,2019,135,,6589,groundwater,
+Odisha,2020,,,1835,groundwater,check value
+Andhra Pradesh,2021,157,,4948,,
+Delhi,2021,,67,3688,Surface Water,missing data
+Kerala,2018,,,1461,Groundwater,duplicate?
+Sikkim,2021,,,859,,
+Assam,2023,,,5220,Rainwater,duplicate?
+Rajasthan,2023,,53,1140,,missing data
+Tamil Nadu,2019,,,2030,Groundwater,
+Karnataka,2019,,67,1548,Rainwater,check value
+Karnataka,2022,,119,692,Rainwater,duplicate?
+Rajasthan,2021,,89,4620,groundwater,
+Chhattisgarh,2018,,,1762,Surface Water,missing data
+Jammu&Kashmir,2021,,,3374,Rainwater,check value
+Telangana,2022,,60,3208,Rainwater,missing data
+Telangana,2021,188,104,1615,Groundwater,missing data
+Telangana,2019,117,117,3782,Spring,
+Rajasthan,2020,168,101,4401,Groundwater,
+Jammu & Kashmir,2018,,51,6644,Surface Water,duplicate?
+Uttar Pradesh,2022,,,6363,groundwater,
+Haryana,2021,,111,6517,Groundwater,
+Chhattisgarh,2019,,,3439,groundwater,
+Arunachal Pradesh,2021,,73,5782,groundwater,duplicate?
+Tripura,2019,,,6523,Groundwater,
+Mizoram,2019,,,384,Surface Water,duplicate?
+Sikkim,2019,155,,6764,Surface Water,check value
+Kerala,2023,,,4435,Groundwater,
+Telangana,2022,,,208,,missing data
+Chhattisgarh,2019,,,6133,,
+Odisha,2022,,107,667,groundwater,
+Delhi,2022,171,,258,Groundwater,
+Jharkhand,2023,,,255,Surface Water,
+Karnataka,2023,,,2984,Surface Water,check value
+Telangana,2022,,,2005,Rainwater,
+Jammu&Kashmir,2019,,,4828,,missing data
+Himachal Pradesh,2023,177,,970,Groundwater,
+West Bengal,2019,192,67,3780,,missing data
+Manipur,2019,,77,2600,,
+Arunachal Pradesh,2020,,,1279,,missing data
+Rajasthan,2018,,51,880,Rainwater,
+Delhi,2023,,,5255,groundwater,check value
+Delhi,2022,,92,3960,Surface Water,duplicate?
+Telangana,2021,177,,4198,Spring,check value
+West Bengal,2021,93,97,3323,Spring,
+Manipur,2018,,89,970,Spring,check value
+Maharashtra,2018,,,1210,,duplicate?
+Nagaland,2021,,,1505,groundwater,duplicate?
+Haryana,2019,,,6237,groundwater,
+Tamil Nadu,2023,,,3934,groundwater,missing data
+Manipur,2018,98,94,6669,Groundwater,missing data
+Mizoram,2022,,,3691,Rainwater,
+Mizoram,2019,,91,1860,Groundwater,missing data
+Delhi,2021,,,4103,,check value
+Punjab,2018,,116,4005,groundwater,missing data
+Jharkhand,2021,176,,3627,Rainwater,missing data
+Haryana,2022,,101,5067,Spring,
+Tripura,2022,,76,6984,groundwater,
+Bihar,2020,,78,5050,Spring,duplicate?
+Himachal Pradesh,2020,112,,3907,Groundwater,missing data
+Delhi,2021,,,3198,Spring,missing data
+Assam,2020,,,4741,Rainwater,
+Telangana,2023,,73,2531,Spring,missing data
+Madhya Pradesh,2021,139,101,2829,Surface Water,duplicate?
+Manipur,2018,100,,6720,Surface Water,
+Manipur,2023,165,55,3204,,check value
+Telangana,2020,96,51,1733,groundwater,
+Andhra Pradesh,2023,141,,567,Rainwater,
+West Bengal,2020,112,85,873,,
+Delhi,2022,,,2139,groundwater,
+UttarPradesh,2020,142,99,4842,,check value
+Jammu & Kashmir,2022,,,2909,,
+Ladakh,2023,,,375,,check value
+Tamil Nadu,2018,,,4778,Surface Water,missing data
+Manipur,2023,126,,3276,,
+Telangana,2022,,60,6981,Surface Water,
+Mizoram,2023,190,,239,Rainwater,duplicate?
+Andhra Pradesh,2021,,54,4342,Rainwater,
+Jharkhand,2020,,,4944,Surface Water,
+Assam,2019,,,2055,Rainwater,duplicate?
+Punjab,2023,,,3018,Rainwater,check value
+Tripura,2023,113,,5162,Surface Water,
+Odisha,2022,136,109,4077,Spring,duplicate?
+Telangana,2022,120,,557,Spring,missing data
+Telangana,2021,,,501,groundwater,
+Haryana,2020,,,656,groundwater,
+MadhyaPradesh,2020,,,6609,,
+Sikkim,2019,184,,1495,Surface Water,
+Andhra Pradesh,2021,,,5249,Spring,duplicate?
+Uttar Pradesh,2020,,,2429,Spring,missing data
+Uttarakhand,2022,147,,5032,Rainwater,
+Himachal Pradesh,2022,180,,3798,Groundwater,
+Uttar Pradesh,2018,113,115,6978,groundwater,duplicate?
+Telangana,2019,,90,2713,Rainwater,
+Delhi,2019,,67,4463,Groundwater,
+Jharkhand,2018,,,6697,,check value
+Haryana,2019,,,2925,Surface Water,missing data
+Mizoram,2020,120,,3705,Spring,check value
+Jharkhand,2018,142,,435,Spring,check value
+Arunachal Pradesh,2020,139,95,4907,Surface Water,check value
+Kerala,2018,,,6756,Spring,missing data
+Nagaland,2022,,,1642,Spring,check value
+Jharkhand,2018,,,5468,,duplicate?
+Manipur,2022,,,5335,Surface Water,duplicate?
+Punjab,2020,,51,4247,Spring,missing data
+Mizoram,2022,112,,223,groundwater,missing data
+AndhraPradesh,2021,,68,6487,,check value
+Mizoram,2023,,,3920,Groundwater,
+Uttar Pradesh,2023,,,5989,Rainwater,
+Jharkhand,2019,164,86,5009,,
+Arunachal Pradesh,2018,,58,6438,Groundwater,
+Meghalaya,2019,190,,1824,groundwater,duplicate?
+Sikkim,2022,,106,4981,groundwater,
+Uttar Pradesh,2018,,81,1794,Surface Water,missing data
+West Bengal,2020,,,4792,Spring,missing data
+Uttarakhand,2022,120,57,4344,Spring,
+Nagaland,2019,92,,275,,duplicate?
+Tripura,2021,,,4300,Groundwater,
+Jammu & Kashmir,2019,,,5224,Surface Water,missing data
+West Bengal,2020,128,,3332,Spring,check value
+Jammu&Kashmir,2021,,,1172,,check value
+Tamil Nadu,2022,,,6914,Spring,
+Andhra Pradesh,2023,,,2557,,duplicate?
+Kerala,2021,,,6878,Surface Water,
+Jammu & Kashmir,2022,,,4900,,
+Rajasthan,2019,,,5467,Rainwater,
+Bihar,2019,,,878,,
+Uttar Pradesh,2022,,,3720,,check value
+Uttar Pradesh,2019,199,96,6665,Rainwater,duplicate?
+Chhattisgarh,2019,,,3559,,
+Arunachal Pradesh,2020,,76,5694,groundwater,
+Assam,2020,,69,3817,Rainwater,
+Jharkhand,2021,,,2106,Groundwater,missing data
+Odisha,2021,,,5972,Spring,check value
+Nagaland,2018,,,3567,,duplicate?
+Rajasthan,2022,,,3352,Rainwater,duplicate?
+Chhattisgarh,2018,176,,420,groundwater,check value
+Uttarakhand,2022,198,86,2491,Spring,check value
+Telangana,2018,132,,1697,,
+Arunachal Pradesh,2020,,,2546,groundwater,duplicate?
+West Bengal,2019,,,659,Groundwater,missing data
+Sikkim,2023,173,50,709,Spring,duplicate?
+Jammu & Kashmir,2022,,87,2099,Groundwater,
+Odisha,2018,,,4190,groundwater,missing data
+Uttarakhand,2018,,,6883,Groundwater,
+Goa,2020,,,1195,Rainwater,
+Jharkhand,2021,165,60,3644,Surface Water,missing data
+Delhi,2018,,,6523,Groundwater,
+Assam,2018,139,,4531,Rainwater,
+Delhi,2020,,,878,,
+Mizoram,2023,150,,2074,Groundwater,check value
+Karnataka,2019,,,5147,Rainwater,
+Telangana,2021,112,,3901,Rainwater,check value
+Kerala,2020,,,2567,Rainwater,check value
+Maharashtra,2023,,,4502,groundwater,check value
+Meghalaya,2019,146,103,1757,Rainwater,
+Rajasthan,2022,112,,2865,groundwater,
+West Bengal,2022,128,,6840,Spring,check value
+Ladakh,2023,,,1647,Rainwater,check value
+Sikkim,2023,,,2155,Surface Water,
+Gujarat,2023,,65,3150,Spring,
+Meghalaya,2019,165,,3012,groundwater,
+Haryana,2023,,92,1771,,
+Meghalaya,2018,,,1710,groundwater,duplicate?
+Ladakh,2020,,75,1351,,check value
+Maharashtra,2020,,,284,groundwater,
+Madhya Pradesh,2018,,78,1598,Spring,duplicate?
+Odisha,2019,,,6379,,missing data
+Uttarakhand,2022,,,4816,Spring,
+Odisha,2018,,,5878,,duplicate?
+Sikkim,2022,,,6641,,check value
+Mizoram,2022,,,4722,,missing data
+Ladakh,2023,,,3605,,
+Meghalaya,2022,167,111,2485,Rainwater,check value
+Mizoram,2018,,,2400,Groundwater,
+Ladakh,2023,194,,2304,,
+Sikkim,2020,,60,5971,Rainwater,duplicate?
+Himachal Pradesh,2023,,,3247,Rainwater,duplicate?
+Delhi,2019,,104,4054,,duplicate?
+Chhattisgarh,2019,,104,4904,,
+Goa,2019,91,98,1207,Rainwater,duplicate?
+Ladakh,2020,169,,1294,groundwater,duplicate?
+Uttar Pradesh,2023,,112,3128,Spring,missing data
+Sikkim,2021,,,5085,Spring,
+Meghalaya,2023,,,6845,Surface Water,duplicate?
+Ladakh,2019,,64,6133,Surface Water,check value
+Ladakh,2018,,,2881,groundwater,duplicate?
+Tamil Nadu,2020,,88,6782,Rainwater,duplicate?
+Assam,2019,,,2792,Rainwater,duplicate?
+Chhattisgarh,2019,,,6548,,check value
+Tamil Nadu,2019,,93,2480,,
+Gujarat,2022,105,,230,Groundwater,missing data
+Jammu & Kashmir,2021,108,,657,,duplicate?
+West Bengal,2019,,,1262,,
+Mizoram,2023,166,,4256,Groundwater,check value
+Telangana,2021,,,2084,,missing data
+Uttar Pradesh,2022,,95,5403,,
+Punjab,2021,,,3762,Groundwater,check value
+Delhi,2021,,,3887,Rainwater,missing data
+Tamil Nadu,2018,128,55,1012,Rainwater,
+Meghalaya,2020,,,6151,,
+Uttar Pradesh,2023,112,,3649,Surface Water,
+Punjab,2018,111,,5759,,
+Arunachal Pradesh,2023,,55,3828,groundwater,check value
+Gujarat,2020,,,1148,Surface Water,missing data
+Andhra Pradesh,2019,126,,2576,Surface Water,missing data
+Mizoram,2020,158,,6535,Groundwater,check value
+Odisha,2023,126,53,5259,groundwater,
+Meghalaya,2018,122,82,630,,
+Haryana,2021,109,,1429,Groundwater,check value
+Chhattisgarh,2020,,,5181,Rainwater,
+Delhi,2023,123,88,327,Surface Water,check value
+Rajasthan,2020,,,1850,Surface Water,
+Tripura,2019,95,,1032,,
+Tamil Nadu,2021,120,112,1277,,duplicate?
+Karnataka,2023,,72,3723,Spring,
+Sikkim,2021,,,480,,missing data
+Chhattisgarh,2019,,,3759,Spring,missing data
+Haryana,2023,,,529,Surface Water,
+Maharashtra,2018,,75,5122,groundwater,
+Uttar Pradesh,2021,,,4755,,
+Punjab,2023,91,65,2428,,
+Uttar Pradesh,2023,148,111,1991,Surface Water,
+Ladakh,2021,99,,596,,check value
+Gujarat,2018,,,2732,Surface Water,
+Andhra Pradesh,2022,131,,5722,Rainwater,missing data
+Uttar Pradesh,2021,,94,4788,groundwater,
+Jharkhand,2018,,106,1821,,duplicate?
+Haryana,2023,,,4574,Rainwater,
+Punjab,2020,183,,2828,Spring,check value
+Odisha,2023,,,4365,Groundwater,duplicate?
+Uttar Pradesh,2019,159,,3428,Spring,duplicate?
+Himachal Pradesh,2022,,,2589,,check value
+Uttarakhand,2018,,117,5090,,
+Jharkhand,2022,186,,963,,check value
+Tamil Nadu,2023,,,700,,check value
+Goa,2021,,81,1876,groundwater,duplicate?
+Jharkhand,2023,,,530,Rainwater,
+Jharkhand,2018,,,3681,,
+Assam,2021,,,1321,groundwater,missing data
+Bihar,2019,,61,2559,groundwater,missing data
+Nagaland,2020,,,1167,Surface Water,check value
+Odisha,2020,190,102,6498,Spring,
+Kerala,2019,,,2990,Spring,missing data
+Tamil Nadu,2022,,,5540,Rainwater,
+Jammu & Kashmir,2020,92,,359,Groundwater,
+Rajasthan,2020,,,6529,Spring,
+Bihar,2020,,103,3986,,check value
+West Bengal,2023,,,5390,groundwater,missing data
+Sikkim,2020,144,,1341,Groundwater,duplicate?
+Madhya Pradesh,2023,,,3038,Groundwater,check value
+Haryana,2023,,,4871,Spring,
+Assam,2019,157,,1521,Groundwater,missing data
+Andhra Pradesh,2019,155,71,5079,,
+Arunachal Pradesh,2022,,,4107,,
+Bihar,2021,,113,6697,,duplicate?
+Bihar,2018,,,4528,Rainwater,
+West Bengal,2019,,119,6645,Spring,
+Madhya Pradesh,2018,195,,3013,Spring,
+Sikkim,2020,,,6008,Groundwater,duplicate?
+Assam,2019,188,55,5351,,
+Sikkim,2018,,,5667,Spring,
+Tripura,2020,96,,3019,Spring,missing data
+Tamil Nadu,2021,,,1899,groundwater,missing data
+Telangana,2022,,,2275,Rainwater,duplicate?
+Uttar Pradesh,2023,,,349,Rainwater,
+Odisha,2022,,,3897,Spring,
+Uttarakhand,2021,,,2283,,missing data
+Nagaland,2018,178,116,3701,groundwater,
+Chhattisgarh,2023,,,779,groundwater,missing data
+Himachal Pradesh,2020,,98,6814,,
+Punjab,2019,,,5601,Groundwater,
+Madhya Pradesh,2018,,,4954,Rainwater,check value
+Meghalaya,2023,,105,812,Surface Water,missing data
+Nagaland,2022,151,,2413,,duplicate?
+Bihar,2021,,101,2169,Rainwater,missing data
+Meghalaya,2022,160,,2938,,missing data
+Assam,2021,,,556,Groundwater,missing data
+Uttarakhand,2019,158,,5860,groundwater,
+Himachal Pradesh,2021,,,2866,groundwater,
+Karnataka,2021,,,3240,,check value
+Meghalaya,2022,,,6163,,duplicate?
+Bihar,2018,,,1623,Spring,missing data
+Punjab,2020,,,4023,Surface Water,missing data
+HimachalPradesh,2019,97,100,1627,Surface Water,duplicate?
+Himachal Pradesh,2021,156,,3179,,
+Maharashtra,2019,,86,3527,Surface Water,duplicate?
+Bihar,2022,,,5392,Surface Water,missing data
+Uttarakhand,2022,,,421,,
+Jammu & Kashmir,2021,106,103,7000,Spring,
+Haryana,2018,151,64,1134,Surface Water,missing data
+Bihar,2018,124,,5641,groundwater,check value
+Himachal Pradesh,2023,162,96,5470,groundwater,
+Kerala,2020,,,5979,Groundwater,duplicate?
+Bihar,2019,,78,1885,Rainwater,check value
+Odisha,2019,97,,1298,Surface Water,
+Jharkhand,2020,,,1655,Groundwater,check value
+Gujarat,2023,,,723,Surface Water,duplicate?
+Sikkim,2019,,,410,,duplicate?
+Bihar,2020,,68,6871,Spring,
+Delhi,2023,,78,2294,Spring,missing data
+Haryana,2018,,,384,,check value
+Andhra Pradesh,2020,,,5156,Rainwater,
+Ladakh,2018,,104,2716,Rainwater,missing data
+Ladakh,2023,156,,5955,Groundwater,
+Odisha,2019,150,114,4442,Spring,check value
+Chhattisgarh,2019,,,6600,,check value
+Goa,2019,,57,760,,check value
+Odisha,2023,,85,3841,,
+Assam,2018,,114,1019,,
+Andhra Pradesh,2023,,,1517,Groundwater,
+Delhi,2018,,,3566,Spring,
+Odisha,2021,,,3554,,duplicate?
+Madhya Pradesh,2021,,,3562,Rainwater,missing data
+Ladakh,2020,132,,1844,Groundwater,check value
+Gujarat,2020,,,5739,,missing data
+Madhya Pradesh,2020,,,484,Spring,
+WestBengal,2021,163,,6708,,check value
+Bihar,2021,,,1501,Rainwater,check value
+Tripura,2023,186,71,2302,Spring,
+Telangana,2019,,,3348,Spring,check value
+West Bengal,2023,,66,4445,Rainwater,
+Assam,2018,,116,2157,Rainwater,duplicate?
+Haryana,2018,161,82,339,Rainwater,missing data
+Uttarakhand,2021,,,6171,Rainwater,duplicate?
+Goa,2023,122,,6350,,
+Delhi,2020,,,4731,Groundwater,check value
+Odisha,2020,133,,6118,Spring,duplicate?
+Uttarakhand,2020,,56,3421,Surface Water,
+Manipur,2023,,,1345,,
+Telangana,2018,,,4148,groundwater,check value
+Manipur,2022,,,2124,groundwater,
+Jammu & Kashmir,2023,,102,851,,duplicate?
+Telangana,2021,,,4842,Rainwater,missing data
+Gujarat,2022,,,5663,Groundwater,
+Telangana,2019,,,5551,Spring,check value
+Madhya Pradesh,2018,,,1461,Groundwater,missing data
+Uttar Pradesh,2022,116,56,2073,Surface Water,missing data
+Uttarakhand,2018,,,3526,Rainwater,duplicate?
+Haryana,2020,147,,318,Groundwater,
+Kerala,2019,,80,1842,groundwater,duplicate?
+Uttarakhand,2018,,95,4701,,
+Assam,2019,,,6247,Rainwater,duplicate?
+Arunachal Pradesh,2023,,,5832,,duplicate?
+Assam,2021,,,1528,,duplicate?
+Assam,2020,147,,4436,Rainwater,duplicate?
+Maharashtra,2022,,,6481,,duplicate?
+Mizoram,2022,,,3462,,
+Karnataka,2021,,,2375,Rainwater,duplicate?
+Bihar,2023,,,2113,,
+Punjab,2021,,64,6508,,
+Tripura,2019,,,3828,Groundwater,
+Kerala,2023,,,6199,Spring,duplicate?
+Bihar,2019,107,103,3984,Rainwater,
+Punjab,2022,,97,6423,,
+Odisha,2022,,104,4968,Spring,
+Manipur,2019,,,4471,Spring,
+Kerala,2022,,60,4698,Rainwater,
+Jammu & Kashmir,2021,120,83,2720,Surface Water,check value
+Assam,2018,181,,5740,groundwater,
+Kerala,2023,,,3292,,duplicate?
+Manipur,2023,133,62,540,,duplicate?
+Goa,2018,193,,1605,Rainwater,
+Rajasthan,2021,190,80,2955,Groundwater,missing data
+Meghalaya,2022,,,2808,Spring,
+Punjab,2019,,64,6073,Surface Water,missing data
+Himachal Pradesh,2021,,,388,Groundwater,
+Tripura,2020,145,112,6566,Spring,duplicate?
+Kerala,2023,,,1043,Rainwater,missing data
+Sikkim,2020,141,83,302,Spring,duplicate?
+Uttarakhand,2018,,,6896,,duplicate?
+Assam,2018,,,1673,Spring,missing data
+Rajasthan,2018,,,6056,Rainwater,
+Punjab,2021,,,933,,duplicate?
+Arunachal Pradesh,2019,,,1044,,
+Kerala,2021,,113,2589,groundwater,missing data
+Telangana,2018,150,,3413,Spring,
+Himachal Pradesh,2023,,,2054,Groundwater,
+Uttar Pradesh,2020,118,,4760,Groundwater,missing data
+Kerala,2021,187,,6662,Spring,
+Karnataka,2021,200,,2763,Surface Water,duplicate?
+Uttarakhand,2022,199,51,6160,,
+Gujarat,2020,,51,4045,Spring,check value
+Assam,2019,,,4467,groundwater,check value
+Manipur,2022,,,5787,Surface Water,
+Uttarakhand,2019,115,,6143,,missing data
+Ladakh,2020,,85,1635,Groundwater,missing data
+Goa,2021,,,2265,Rainwater,duplicate?
+Himachal Pradesh,2019,,97,5078,Surface Water,
+Uttar Pradesh,2019,,,3638,,duplicate?
+Karnataka,2021,,74,5164,,missing data
+Jharkhand,2023,,,2516,Rainwater,missing data
+West Bengal,2020,,,5313,Groundwater,
+Jharkhand,2020,195,112,2506,groundwater,missing data
+Punjab,2019,,,6351,Spring,
+Assam,2022,,,665,Rainwater,missing data
+Himachal Pradesh,2019,156,,6128,,
+Haryana,2018,,,5483,Spring,check value
+Arunachal Pradesh,2021,100,119,998,Groundwater,
+Meghalaya,2019,,,2398,Groundwater,check value
+Delhi,2019,168,,6296,,
+Arunachal Pradesh,2020,171,,3209,Surface Water,duplicate?
+Telangana,2018,195,,2105,,
+Andhra Pradesh,2019,,,983,groundwater,missing data
