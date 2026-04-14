@@ -168,7 +168,7 @@ This project covers:
 
 👨‍💻 Author
 
-Sai Manikanta Sai
+k.Manikanta Sai
 
 ---
 
